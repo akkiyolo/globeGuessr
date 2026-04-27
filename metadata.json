@@ -1,0 +1,5 @@
+{
+  "name": "GlobeGuesser 3D",
+  "description": "A 3D street-view geography guessing game. Explore the world and pinpoint your location on the map to earn points.",
+  "requestFramePermissions": []
+}

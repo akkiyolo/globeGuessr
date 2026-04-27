@@ -1,5 +1,8 @@
 # GlobeGuesser 3D
 
+<img width="1244" height="790" alt="image" src="https://github.com/user-attachments/assets/16f5c8b2-115b-461e-af2f-b412952f6e23" />
+
+
 Explore the world in 3D street view and pinpoint your location on the map to earn points! GlobeGuesser 3D is a geography guessing game built with React and the Google Maps API.
 
 ## Features
